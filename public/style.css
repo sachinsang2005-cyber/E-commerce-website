@@ -1,0 +1,67 @@
+html,
+body {
+    height: 100%;
+    /* full height */
+    margin: 0;
+    /* remove default spacing */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* full viewport height */
+}
+
+i{
+    color: red;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.footer a{
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+    color: red;
+   
+}
+
+.card-img-top{
+    height: 200px;
+    width: 200px;
+    /* margin-left: 5px; */
+}
+
+.card{
+    margin: 5px;
+}
+
+
+
+.container {
+    flex: 1;
+    /* take remaining space */
+}
+
+.footer {
+    background: #f8f9fa;
+    /* light background (optional) */
+    text-align: center;
+    padding: 1rem;
+    border-top: 1px solid #ddd;
+}
+/* 
+#sign{
+    margin-left: 1150px;
+} */
+
+#filter i{
+    color: black;
+    margin: 15px;
+}
