@@ -52,8 +52,4 @@ This project allows users to browse, add, edit, and manage traditional farsan fo
 - RESTful Routing
 - Centralized Error Handling
 
----
 
-## Project Structure
-
-# E-commerce-website
